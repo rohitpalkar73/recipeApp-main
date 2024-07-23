@@ -1,0 +1,13 @@
+.container_ {
+    background-image: url('https://img.freepik.com/premium-photo/ingredients-cooking-food-background-with-herbs-vegetables-top-view-white-background_1040174-1574.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: calc(100vh - 65px);
+    width: 100vw;
+    top: 50px;
+    position: relative;
+    padding: 50px;
+    overflow: auto;
+
+}
